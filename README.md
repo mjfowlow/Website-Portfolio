@@ -1,2 +1,5 @@
 # Website-Portfolio
-My Website Portfolio I am working on and continuing to build and learn from using HTML, CSS, JavaScript.
+My Website Portfolio I am currently building and learning from.
+I am developing it using HTML, CSS, JavaScript.
+
+
